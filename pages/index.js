@@ -5,46 +5,40 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        
+        <title>Home Page</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Home Page
         </h1>
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
+        <h2>
+        This is my home page to my site.
+        </h2>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/next-js/pages/About.html" className={styles.card}>
+            <h3>About</h3>
+            <p>This is a test.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/next-js/pages/Hobbies.html" className={styles.card}>
+            <h3>Hobbies</h3>
+            <p>My Hobbies!</p>
           </a>
 
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/next-js/pages/Foods.html" className={styles.card}>
+            <h3>Foods</h3>
+            <p>Foods I Like!</p>
           </a>
 
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
+          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/next-js/pages/Skills.html" className={styles.card}>
+            <h3>Skills</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              What I am good at!
             </p>
           </a>
         </div>
