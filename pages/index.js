@@ -20,22 +20,22 @@ export default function Home() {
         </h2>
 
         <div className={styles.grid}>
-          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/next-js/pages/About.html" className={styles.card}>
+          <a href="About.html" className={styles.card}>
             <h3>About</h3>
             <p>This is a test.</p>
           </a>
 
-          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/next-js/pages/Hobbies.html" className={styles.card}>
+          <a href="Hobbies.html" className={styles.card}>
             <h3>Hobbies</h3>
             <p>My Hobbies!</p>
           </a>
 
-          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/next-js/pages/Foods.html" className={styles.card}>
+          <a href="Foods.html" className={styles.card}>
             <h3>Foods</h3>
             <p>Foods I Like!</p>
           </a>
 
-          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/next-js/pages/Skills.html" className={styles.card}>
+          <a href="Skills.html" className={styles.card}>
             <h3>Skills</h3>
             <p>
               What I am good at!
