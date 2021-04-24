@@ -25,17 +25,17 @@ export default function Home() {
             <p>This is a test.</p>
           </a>
 
-          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/my-website/Hobbies.html" className={styles.card}>
+          <a href="my-website/Hobbies.html" className={styles.card}>
             <h3>Hobbies</h3>
             <p>My Hobbies!</p>
           </a>
 
-          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/my-website/Foods.html" className={styles.card}>
+          <a href="my-website/Foods.html" className={styles.card}>
             <h3>Foods</h3>
             <p>Foods I Like!</p>
           </a>
 
-          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/my-website/Skills.html" className={styles.card}>
+          <a href="my-website/Skills.html" className={styles.card}>
             <h3>Skills</h3>
             <p>
               What I am good at!
