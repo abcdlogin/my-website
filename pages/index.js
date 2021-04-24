@@ -20,7 +20,7 @@ export default function Home() {
         </h2>
 
         <div className={styles.grid}>
-          <a href="file:///C:/Users/brend/OneDrive/Documents/GitHub/my-website/About.html" className={styles.card}>
+          <a href="my-website/About.html" className={styles.card}>
             <h3>About</h3>
             <p>This is a test.</p>
           </a>
