@@ -22,7 +22,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="my-website/About.html" className={styles.card}>
             <h3>About</h3>
-            <p>This is a test.</p>
+            <p>This is about me.</p>
           </a>
 
           <a href="my-website/Hobbies.html" className={styles.card}>
